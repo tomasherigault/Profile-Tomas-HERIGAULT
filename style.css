@@ -1,0 +1,46 @@
+h1 {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+body {
+  color: rgb(10, 10, 10);     /* Text color */
+	background-color: #00111c;  /* Background color */
+}
+
+
+div {
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 10%;
+}
+
+.card-center {
+	width: 800px;
+	background-color: slategrey;
+	border-radius: 15px;
+	text-align: center;
+	margin: 0 auto;
+	box-shadow: 20px;
+}
+
+
+#taille {
+	width: 600px;
+}
+
+#size {
+	width: 100px;
+}
+
+.fa-brands {
+	font-size: 100px;
+	color: white;
+}
